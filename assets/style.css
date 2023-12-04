@@ -60,3 +60,7 @@ p {
       border: 5px solid gray;
       box-shadow: 5px 5px #CCC8C0;
     }
+code {
+      font-family:monospace;
+      background-color:gainsboro;
+}
